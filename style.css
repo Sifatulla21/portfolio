@@ -68,5 +68,8 @@ p{
     border-left: 10px solid;
     border-image: linear-gradient(blue, tomato);
     border-image-slice: 1;
-
+}
+footer{
+    text-align: center;
+    font-size: 50px;
 }
