@@ -44,3 +44,29 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience-iteam{
+    box-shadow: 10px 10px 40px gray;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+     
+}
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 10px solid;
+    border-image: linear-gradient(red, cyan);
+    border-image-slice: 1;
+
+}
+#junior-dev{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, tomato);
+    border-image-slice: 1;
+
+}
